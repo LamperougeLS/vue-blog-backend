@@ -1,6 +1,6 @@
 # vue-blog-backend
 
-> A Vue.js project
+> A Vue.js project blog-backend
 
 ## Build Setup
 
